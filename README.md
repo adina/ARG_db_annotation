@@ -1,4 +1,4 @@
-#Adding GERMS ARG DB annotations and hierarchy to sequencing results
+# Adding GERMS ARG DB annotations and hierarchy to sequencing results
 
 This repo is divided into three sections:
 
